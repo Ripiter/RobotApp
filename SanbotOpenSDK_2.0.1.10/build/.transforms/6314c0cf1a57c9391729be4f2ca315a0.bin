@@ -1,0 +1,8 @@
+i/jars/classes.jar
+i/jars/libs/kotlin-stdlib-1.1.2-5.jar
+i/jars/libs/kotlin-stdlib-jre7-1.1.2-5.jar
+i/jars/libs/netty-buffer-4.1.13.Final.jar
+i/jars/libs/netty-codec-4.1.13.Final.jar
+i/jars/libs/netty-common-4.1.13.Final.jar
+i/jars/libs/netty-resolver-4.1.13.Final.jar
+i/jars/libs/netty-transport-4.1.13.Final.jar

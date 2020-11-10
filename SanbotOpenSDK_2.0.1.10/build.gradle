@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('SanbotOpenSDK_2.0.1.10.aar'))
